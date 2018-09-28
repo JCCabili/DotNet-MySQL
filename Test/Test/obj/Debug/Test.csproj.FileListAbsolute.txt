@@ -1,0 +1,1 @@
+D:\LaboratoryCodes\2018\DotNet MySQL\Test\Test\bin\Debug\Test.exe.config

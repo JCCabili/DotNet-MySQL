@@ -1,0 +1,13 @@
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\bin\Debug\TestApp.exe.config
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\bin\Debug\TestApp.exe
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\bin\Debug\TestApp.pdb
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\bin\Debug\EntityFramework.dll
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\bin\Debug\EntityFramework.xml
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.exe
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.pdb
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.Form1.resources
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\LaboratoryCodes\2018\DotNet MySQL\MySQL2015\TestApp\obj\Debug\TestApp.csproj.CopyComplete
